@@ -15,4 +15,4 @@ alias ll="exa -l"
 alias cat=bat
 zoxide init fish | source
 alias cd=z
-
+fish_ssh_agent

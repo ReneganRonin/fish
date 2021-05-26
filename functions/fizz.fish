@@ -18,5 +18,3 @@ function fizz
         sudo pacman -S fzf
     end
 end
-   
-
