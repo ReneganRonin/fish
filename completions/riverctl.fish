@@ -1,0 +1,1 @@
+/home/tricks/river/completions/fish/

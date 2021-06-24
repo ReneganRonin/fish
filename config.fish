@@ -1,4 +1,3 @@
-starship init fish | source
 zoxide init fish | source
 status is-login; and pyenv init --path | source
 
@@ -15,3 +14,4 @@ alias ls=exa
 alias ll="exa -l"
 alias cat=bat
 fish_ssh_agent
+source ("/usr/bin/starship" init fish --print-full-init | psub)
