@@ -1,1 +1,1 @@
-/home/tricks/river/completions/fish/
+/home/tricks/river/completions/fish/riverctl.fish
