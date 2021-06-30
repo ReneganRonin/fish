@@ -1,5 +1,6 @@
 zoxide init fish | source
 status is-login; and pyenv init --path | source
+status is-interactive; and pyenv init --path | source
 
 alias ua-drop-caches='sudo paccache -rk3; paru -Sc --aur --noconfirm'
 alias ua-update-all='set TMPFILE (mktemp); \
